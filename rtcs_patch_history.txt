@@ -1,0 +1,20 @@
+PATCHES APPLIED:
+----------------
+
+· RTCS 2.95 Patch 04
+
+
+
+
+
+PATCHES PREVIOUSLY APPLIED:
+---------------------------
+
+· none <fill in if any>
+
+
+
+SELECTIVE PATCHES APPLIED:
+--------------------------
+
+· <please list all CRs if selective bug fixes applied>

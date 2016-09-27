@@ -1,0 +1,165 @@
+A.menu:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #ffffff; TEXT-DECORATION: none; font-color: white
+}
+A.menu:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #ffffff; TEXT-DECORATION: none; font-color: white
+}
+A.menu:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000000; TEXT-DECORATION: none; font-color: white
+}
+TD.menu {
+	FONT-WEIGHT: normal; BACKGROUND: #3366cc; FONT-FAMILY: Arial; TEXT-DECORATION: none; 8: 8pt
+}
+TD.barlink {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; BACKGROUND: #003366; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A.barlink:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.barlink:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.barlink:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.barlink:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #dc3513; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.barlinkmenu:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.barlinkmenu:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.barlinkmenu:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #dc3513; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+BODY {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; BACKGROUND: #ffffff; FONT-FAMILY: Arial; TEXT-DECORATION: none; font-color: #000000
+}
+.detail {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.mainheading {
+	FONT-WEIGHT: lighter; FONT-SIZE: 18px; COLOR: #3366cc; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.footer {
+	FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.subheading {
+	FONT-WEIGHT: normal; FONT-SIZE: 18px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.logheading {
+	FONT-WEIGHT: normal; FONT-SIZE: 12pt; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TD.login {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; FONT-FAMILY: Arial; colour: #FFFFFF
+}
+SPAN.bullet {
+	FONT-WEIGHT: bolder; FONT-SIZE: 9pt; COLOR: #dc3513
+}
+TD {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; FONT-FAMILY: Arial; colour: #000000
+}
+TD.heading {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; BACKGROUND: #95b0e5; COLOR: #ffffff; FONT-FAMILY: Arial
+}
+TD.headline {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000066; TEXT-DECORATION: underline
+}
+A:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #003366; TEXT-DECORATION: underline
+}
+A:hover {
+	FONT-SIZE: 8pt; COLOR: #dc3513; TEXT-DECORATION: underline
+}
+A.blackbold:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; TEXT-DECORATION: none
+}
+A.blackbold:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; TEXT-DECORATION: none
+}
+A.blackbold:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #dc3513; TEXT-DECORATION: none
+}
+A.bigblackbold:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+A.bigblackbold:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+A.bigblackbold:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #dc3513; TEXT-DECORATION: none
+}
+A.boldlink:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000066; TEXT-DECORATION: underline
+}
+A.boldlink:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000066; TEXT-DECORATION: underline
+}
+A.boldlink:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #dc3513; TEXT-DECORATION: underline
+}
+A.more:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; FONT-STYLE: italic; TEXT-DECORATION: none
+}
+A.more:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; FONT-STYLE: italic; TEXT-DECORATION: none
+}
+A.more:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #dc3513; FONT-STYLE: italic; TEXT-DECORATION: none
+}
+A.navigation:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #003366; TEXT-DECORATION: none
+}
+A.navigation:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #003366; TEXT-DECORATION: none
+}
+A.navigation:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #dc3513; TEXT-DECORATION: none
+}
+.input {
+	FONT-SIZE: 8pt
+}
+.H2 {
+	FONT-SIZE: 18pt; MARGIN: 12pt 0cm 3pt; COLOR: #3366cc; FONT-STYLE: normal; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+.H2Black {
+	FONT-SIZE: 18pt; MARGIN: 12pt 0cm 3pt; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+.H1 {
+	FONT-SIZE: 22pt; MARGIN: 12pt 0cm 3pt; COLOR: #3366cc; FONT-STYLE: normal; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+.ThinBorder {
+	BORDER-RIGHT: #000000 1px dashed; BORDER-TOP: #000000 1px dashed; BORDER-LEFT: #000000 1px dashed; BORDER-BOTTOM: #000000 1px dashed
+}
+.outlinelabel {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+.minner {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; FONT: 12px Tahoma, Verdana, sans-serif; COLOR: white; PADDING-TOP: 4px; TEXT-DECORATION: none
+}
+.moout {
+	BORDER-RIGHT: #6699cc 1px solid; BORDER-TOP: #6699cc 1px solid; BACKGROUND: #3366cc; BORDER-LEFT: #6699cc 1px solid; BORDER-BOTTOM: #6699cc 1px solid
+}
+.moover {
+	BORDER-RIGHT: #6699cc 1px solid; BORDER-TOP: #6699cc 1px solid; BACKGROUND: #95b0e5; BORDER-LEFT: #6699cc 1px solid; BORDER-BOTTOM: #6699cc 1px solid
+}
+.modown {
+	BORDER-RIGHT: #6699cc 1px solid; BORDER-TOP: #6699cc 1px solid; BACKGROUND: #99ccff; BORDER-LEFT: #6699cc 1px solid; BORDER-BOTTOM: #6699cc 1px solid
+}
+A.redlink:link {
+	FONT-SIZE: 10pt; COLOR: #cc0000; FONT-FAMILY: Helvetica, Arial, sans-serif; TEXT-DECORATION: none
+}
+A.redlink:visited {
+	FONT-SIZE: 10pt; COLOR: #cc0000; FONT-FAMILY: Helvetica, Arial, sans-serif; TEXT-DECORATION: none
+}
+A.redlink:hover {
+	FONT-SIZE: 10pt; COLOR: #cc0000; FONT-FAMILY: Helvetica, Arial, sans-serif; TEXT-DECORATION: underline
+}
+.14Label {
+	FONT-SIZE: 14px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
